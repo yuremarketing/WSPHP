@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Summary
 php7dev is a Debian 8 [Vagrant image](https://atlas.hashicorp.com/rasmus/boxes/php7dev) which is preconfigured for testing PHP apps and developing extensions across many versions of PHP.
 
@@ -368,3 +369,6 @@ And a tiny apt primer:
 * upgrade installed: **apt-get upgrade**
 
 If something isn't working or you have suggestions, please let me know here.
+=======
+# WSPHP
+>>>>>>> cf1d130eeac876ceb9099550609bc1e6201b9af8
