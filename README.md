@@ -1,3 +1,10 @@
+Olá Senhores, sou aluno de desemvolvimento PHP, este trabalho é um mero acompanhamento do CURSO da UpInside treinamentos! 
+
+Quem Puder me ajudar nesa formação, fique a vontade pra ajudar !!!  ABRAÇO !
+
+
+
+
 <<<<<<< HEAD
 ## Summary
 php7dev is a Debian 8 [Vagrant image](https://atlas.hashicorp.com/rasmus/boxes/php7dev) which is preconfigured for testing PHP apps and developing extensions across many versions of PHP.
